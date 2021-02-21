@@ -1,0 +1,12 @@
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\bin\Debug\P33tUI light.exe.config
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\bin\Debug\P33tUI light.exe
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\bin\Debug\P33tUI light.pdb
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\bin\Debug\Siticone.UI.dll
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI light.csprojAssemblyReference.cache
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI_light.P33tUI.resources
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI_light.Properties.Resources.resources
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI light.csproj.GenerateResource.cache
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI light.csproj.CoreCompileInputs.cache
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI light.csproj.CopyComplete
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI light.exe
+C:\Users\P33tT\source\repos\P33tUI light\P33tUI light\obj\Debug\P33tUI light.pdb
