@@ -1,3 +1,6 @@
+# This project is abandoned
+
+
 free c# UI for your projects. Say stop to ugly projects
 
 With this template you can create beautiful projects in matter of seconds. Works for C# Windows Forms
